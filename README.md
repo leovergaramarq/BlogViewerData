@@ -24,15 +24,23 @@ You can clone this repsitory to get the source code
  2. Run the class `blogviewerdata.BlogViewerData.java`.
  
 ## Views
-### Posts
+
+### Built With
+
 <img src="https://raw.githubusercontent.com/LeonardoVergara/BlogViewerData/main/.github/images/posts.png" height="400">
+
 ### User
+
 <img src="https://raw.githubusercontent.com/LeonardoVergara/BlogViewerData/main/.github/images/user.png" height="400">
+
 ### Post
+
 <img src="https://raw.githubusercontent.com/LeonardoVergara/BlogViewerData/main/.github/images/post.png" height="400">
+
 ### Comment
+
 <img src="https://raw.githubusercontent.com/LeonardoVergara/BlogViewerData/main/.github/images/comment.png" height="400">
- 
+
 ## Build
 
 The process of generating a .jar executable is guided by your IDE.
