@@ -25,7 +25,7 @@ You can clone this repsitory to get the source code
  
 ## Views
 
-### Built With
+### Posts
 
 <img src="https://raw.githubusercontent.com/LeonardoVergara/BlogViewerData/main/.github/images/posts.png" height="400">
 
