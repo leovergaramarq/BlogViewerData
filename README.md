@@ -35,11 +35,11 @@ You can clone this repsitory to get the source code
 
 ### Post
 
-<img src="https://raw.githubusercontent.com/LeonardoVergara/BlogViewerData/main/.github/images/post.png" height="400">
+<img src="https://raw.githubusercontent.com/LeonardoVergara/BlogViewerData/main/.github/images/post.png" height="300">
 
 ### Comment
 
-<img src="https://raw.githubusercontent.com/LeonardoVergara/BlogViewerData/main/.github/images/comment.png" height="400">
+<img src="https://raw.githubusercontent.com/LeonardoVergara/BlogViewerData/main/.github/images/comment.png" height="300">
 
 ## Build
 
