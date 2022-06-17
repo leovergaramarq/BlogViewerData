@@ -1,5 +1,5 @@
 # BlogViewerData
-[JSONPlaceholder](https://jsonplaceholder.typicode.com) resource display and search engine using tree data structure.
+[JSONPlaceholder](https://jsonplaceholder.typicode.com) resource display and search engine using tree data structures.
 
 <img src="https://raw.githubusercontent.com/LeonardoVergara/BlogViewerData/main/.github/images/menu.png" height="500">
 
