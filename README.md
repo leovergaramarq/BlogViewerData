@@ -26,7 +26,7 @@ You can clone this repsitory to get the source code
 ## Views
 ### Posts
 
-<img src="https://user-images.githubusercontent.com/73978713/174461274-38becb35-ae3a-4b1a-8729-ff08aef09272.png" height="400">
+<img src="https://user-images.githubusercontent.com/73978713/174461274-38becb35-ae3a-4b1a-8729-ff08aef09272.png" height="500">
 
 ### User
 
