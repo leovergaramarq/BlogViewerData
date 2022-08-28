@@ -16,7 +16,7 @@
 
 You can clone this repsitory to get the source code
 
-    git clone https://github.com/LeonardoVergara/BlogViewerData.git
+    git clone https://github.com/vergaraldvm/BlogViewerData.git
 
 ## Usage
 
