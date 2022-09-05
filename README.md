@@ -16,7 +16,7 @@
 
 You can clone this repsitory to get the source code
 
-    git clone https://github.com/vergaraldvm/BlogViewerData.git
+    git clone https://github.com/leovergaramarq/BlogViewerData.git
 
 ## Usage
 
@@ -47,5 +47,5 @@ The process of generating a .jar executable is guided by your IDE. If using NetB
 ## Authors
 
  - Leonardo Lizcano - [LeoLizc](https://github.com/LeoLizc)
- - Leonardo Vergara - [vergaraldvm](https://github.com/vergaraldvm)
+ - Leonardo Vergara - [leovergaramarq](https://github.com/leovergaramarq)
  - Leonardo Aguilera - [leoar0810](https://github.com/leoar0810)
